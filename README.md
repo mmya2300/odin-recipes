@@ -7,5 +7,6 @@ I was already familiar with many of the concepts used in this project, however i
 
 ### Tech Used :computer_mouse:
 Language: HTML
+
 Code Editor: Visual Studio Code
 
